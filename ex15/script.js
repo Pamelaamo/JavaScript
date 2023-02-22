@@ -56,7 +56,7 @@ function verificar() {
             }
 
         }
-        res.style.textAling = 'center'
+        res.style.textAling ='center'
         res.innerHTML = `Detectamos ${gênero} com ${idade} anos.`
         res.appendChild(img)
     }
