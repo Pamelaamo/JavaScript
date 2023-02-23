@@ -1,0 +1,22 @@
+body {
+    background: rgb(228, 228, 128);
+    font: normal 13pt Georgia;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: rgb(228, 187, 187);
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.589);
+}
+
+footer {
+    text-align: center;
+    font-style: oblique;
+}
