@@ -1,5 +1,5 @@
 body {
-    background-color: pink;
+    background-color: black;
 }
 
 h1 {
@@ -12,7 +12,7 @@ h1 {
 #quadrado1 {
     width: 100px;
     height: 100px;
-    background-color: cornflowerblue;
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     text-align: center;
     margin: auto;
@@ -23,11 +23,11 @@ h1 {
 #circulo1 {
     width: 100px;
     height: 100px;
-    background-color: blueviolet;
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     text-align: center;
     position: absolute;
-    left: 1131px;
+    left: 1125px;
     bottom: 755px;
     
     
@@ -36,7 +36,7 @@ h1 {
 #quadrado2 {   
     width: 100px;
     height: 100px;
-    background-color: rgb(55, 206, 226); 
+    background-color: rgb(207, 37, 212);; 
     border-radius: 10px;
     margin: auto;   
     margin-top: 300px;         
@@ -47,10 +47,10 @@ h1 {
 #circulo2 {
     width: 100px;
     height: 100px;
-    background-color: rgb(214, 57, 154);   
+    background-color:rgb(207, 37, 212); 
     border-radius: 10px;
     position: absolute;
-    right: 1130px;
+    right: 1125px;
     bottom: 755px;
     
 }
@@ -58,10 +58,10 @@ h1 {
 #quadrado5 {
     width: 100px;
     height: 100px;
-    background-color: chartreuse;
+    background-color:rgb(207, 37, 212);
     border-radius:10px;
     position: absolute;
-    left: 1031px;
+    left: 1020px;
     bottom: 755px;
     
 }
@@ -69,81 +69,81 @@ h1 {
 #quadrado6 {
     width: 100px;
     height: 100px;
-    background-color: blue;
+    background-color:rgb(207, 37, 212);;
     border-radius: 10px;
     position: absolute;
-    left: 931px;
+    left: 915px;
     bottom: 755px;
 }
 
 #quadrado7 {
     width: 100px;
     height: 100px;
-    background-color: aliceblue;
+    background-color:rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 831px;
-    bottom: 755px;
+    left: 810px;
+    bottom:755px;
 }
 
 #quadrado8 {
     width: 100px;
     height: 100px;
-    background-color: rgb(203, 169, 231);
+    background-color:rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    right:1031px;
+    right:1020px;
     bottom: 755px;
 }
 
 #quadrado9 {
     width: 100px;
     height: 100px;
-    background-color: rgb(15, 43, 41);
+    background-color:rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    right:931px;
+    right:914px;
     bottom: 755px;
 }
 
 #esquerda1 {
     width: 100px;
     height: 100px;
-    background-color: rgb(7, 7, 7);
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 831px;
-    bottom: 600px;
+    left: 810px;
+    bottom: 650px;
 }
 
 #esquerda2 {
     width: 100px;
     height: 100px;
-    background-color: rgb(199, 33, 33);
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 831px;
-    bottom: 500px;
+    left: 810px;
+    bottom: 545px;
 }
 
 #esquerda3 {
     width: 100px;
     height: 100px;
-    background-color: rgb(240, 236, 19);
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 831px;
-    bottom: 400px;
+    left: 810px;
+    bottom: 440px;
 }
 
 #esquerda4 {
     width: 100px;
     height: 100px;
-    background-color: rgb(146, 114, 24);
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 831px;
-    bottom: 300px;
+    left: 850px;
+    bottom: 335px;
 }
 
 #esquerda5 {
@@ -152,16 +152,36 @@ h1 {
     background-color: rgb(247, 18, 106);
     border-radius: 10px;
     position: absolute;
-    left: 831px;
-    bottom: 200px;
+    left: 910px;
+    bottom: 230px;
 }
 
 #queixoesquer1 {
     width: 100px;
     height: 100px;
-    background-color: rgb(19, 18, 18);
+    background-color: rgb(84, 65, 194);
     border-radius: 10px;
     position: absolute;
-    left: 870px;
-    bottom: 100px;
+    left: 1015px;
+    bottom: 155px;
+}
+
+#queixoesquer2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(247, 12, 12);
+    border-radius: 10px;
+    position: absolute;
+    left: 1122px;
+    bottom: 90px;
+}
+
+#queixoponta {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(12, 247, 90);
+    border-radius: 10px;
+    position: absolute;
+    left: 1227px;
+    bottom: 10px;
 }
