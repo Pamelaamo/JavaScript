@@ -10,7 +10,7 @@ h1 {
 }
 
 
-#quadrado {
+#quadrado0 {
     width: 100px;
     height: 100px;
     background-color: rgb(207, 37, 212);
@@ -43,7 +43,7 @@ h1 {
     
 }
 
-#quadrado5 {
+#quadrado3 {
     width: 100px;
     height: 100px;
     background-color:rgb(207, 37, 212);
@@ -53,7 +53,7 @@ h1 {
     bottom: 755px;   
 }
 
-#quadrado6 {
+#quadrado4 {
     width: 100px;
     height: 100px;
     background-color:rgb(207, 37, 212);;
@@ -63,7 +63,7 @@ h1 {
     bottom: 755px;
 }
 
-#quadrado7 {
+#quadrado5 {
     width: 100px;
     height: 100px;
     background-color:rgb(207, 37, 212);
@@ -73,7 +73,7 @@ h1 {
     bottom:755px;
 }
 
-#quadrado8 {
+#quadrado6 {
     width: 100px;
     height: 100px;
     background-color:rgb(207, 37, 212);
@@ -83,7 +83,7 @@ h1 {
     bottom: 755px;
 }
 
-#quadrado9 {
+#quadrado7 {
     width: 100px;
     height: 100px;
     background-color:rgb(207, 37, 212);
