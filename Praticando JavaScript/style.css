@@ -5,11 +5,12 @@ body {
 h1 {
     text-align: center;
     font: normal 25pt Arial;
+    color: white;
     
 }
 
 
-#quadrado1 {
+#quadrado {
     width: 100px;
     height: 100px;
     background-color: rgb(207, 37, 212);
@@ -20,7 +21,7 @@ h1 {
     
 }
 
-#circulo1 {
+#quadrado1 {
     width: 100px;
     height: 100px;
     background-color: rgb(207, 37, 212);
@@ -29,20 +30,7 @@ h1 {
     position: absolute;
     left: 1125px;
     bottom: 755px;
-    
-    
 }
-
-#quadrado2 {   
-    width: 100px;
-    height: 100px;
-    background-color: rgb(207, 37, 212);; 
-    border-radius: 10px;
-    margin: auto;   
-    margin-top: 300px;         
-    
-}
-
 
 #circulo2 {
     width: 100px;
@@ -149,7 +137,7 @@ h1 {
 #esquerda5 {
     width: 100px;
     height: 100px;
-    background-color: rgb(247, 18, 106);
+    background-color:  rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
     left: 910px;
@@ -159,29 +147,158 @@ h1 {
 #queixoesquer1 {
     width: 100px;
     height: 100px;
-    background-color: rgb(84, 65, 194);
+    background-color:  rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 1015px;
+    left: 1020px;
     bottom: 155px;
 }
 
 #queixoesquer2 {
     width: 100px;
     height: 100px;
-    background-color: rgb(247, 12, 12);
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 1122px;
-    bottom: 90px;
+    left: 1128px;
+    bottom: 110px;
 }
 
 #queixoponta {
     width: 100px;
     height: 100px;
-    background-color: rgb(12, 247, 90);
+    background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    left: 1227px;
-    bottom: 10px;
+    left: 1180px;
+    bottom: 5px;
 }
+
+#queixodirei1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 917px;
+    bottom: 650px;
+}
+
+#queixodirei2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 917px;
+    bottom: 545px;
+
+}
+
+#queixodirei3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 917px;
+    bottom: 440px;
+
+}
+
+#queixodirei4{
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 950px;
+    bottom: 335px;
+
+}
+
+#queixodirei5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 1008px;
+    bottom: 230px;
+
+}
+
+#queixodirei6 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 1115px;
+    bottom: 160px;
+}
+
+#queixodirei7 {
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    right: 1225px;
+    bottom: 110px;
+
+}
+
+#olhoesquer {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    left: 1020px;
+    top: 250px;
+    
+}
+
+#olhodirei {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 37, 212);
+    border-radius: 10px;
+    position: absolute;
+    left: 1330px;
+    top: 250px;
+}
+
+#nariz1 {   
+    width: 80px;
+    height: 80px;
+    background-color: rgb(207, 37, 212);; 
+    border-radius: 10px;
+    position: absolute;
+    right: 1250px;
+    bottom: 354px;      
+    
+}
+
+
+#nariz2 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(207, 37, 212);; 
+    border-radius: 10px;
+    position: absolute;
+    left: 1140px;  
+    bottom: 354px;
+}
+
+#nariz3 {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(207, 37, 212);; 
+    border-radius: 10px;
+    position: absolute;
+    left: 1183px;  
+    bottom: 269px;
+}
+
