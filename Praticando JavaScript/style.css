@@ -50,8 +50,7 @@ h1 {
     border-radius:10px;
     position: absolute;
     left: 1020px;
-    bottom: 755px;
-    
+    bottom: 755px;   
 }
 
 #quadrado6 {
@@ -190,7 +189,7 @@ h1 {
     background-color: rgb(207, 37, 212);
     border-radius: 10px;
     position: absolute;
-    right: 917px;
+    right: 917px;  
     bottom: 545px;
 
 }
@@ -203,7 +202,6 @@ h1 {
     position: absolute;
     right: 917px;
     bottom: 440px;
-
 }
 
 #queixodirei4{
@@ -214,7 +212,6 @@ h1 {
     position: absolute;
     right: 950px;
     bottom: 335px;
-
 }
 
 #queixodirei5{
@@ -225,7 +222,6 @@ h1 {
     position: absolute;
     right: 1008px;
     bottom: 230px;
-
 }
 
 #queixodirei6 {
@@ -280,7 +276,6 @@ h1 {
     bottom: 354px;      
     
 }
-
 
 #nariz2 {
     width: 80px;
