@@ -12,9 +12,21 @@ h1 {
     font: bold 20pt Arial;
 }
 
-.esquerda {
+.quadrado {
     width: 200px;
     height: 200px;
     background-color: black;
+}
+
+#esquerda {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+
+#meio {
+    position: absolute;
+    right: 50px;
+    bottom: 250px;
 }
 
