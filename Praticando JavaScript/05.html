@@ -18,12 +18,47 @@
 
         <section id="esquerda" class="quadrado">
 
+            <div id="frente">
+                interaja...
+            </div>
+
+            <script>
+                var f = window.document.getElementById('frente')
+
+                f.addEventListener('click', clicar)
+
+                f.addEventListener('mouseentrar', entrar)
+
+                f.addEventListener('mouseout', sair)
+
+                function clicar() {
+
+                    f.innerText = 'Clicou'
+
+                    f.style.background = 'orange'
+                }
+
+                function entrar() {
+
+                    f.innerText = 'Entrou'
+
+                    f.style.background = 'pink'
+                }
+
+                function sair() {
+
+                    f.innerText = 'Sair'
+
+                    f.style.background = 'green'
+                }
+                
+            </script>
+
             
 
         </section>
 
 
-        
 
         <section id="meio" class="quadrado">
 
